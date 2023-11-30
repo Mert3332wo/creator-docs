@@ -7,7 +7,7 @@ You can [find](#finding-audio-assets) a variety of free-to-use audio assets on t
 
 ## Finding Audio Assets
 
-In the [Creator Marketplace](../production/publishing/creator-marketplace.md), you can find all audio assets that are made by Roblox and the Roblox community for creators to use within their experiences, including more than 100,000 endorsed, professionally-produced sound effects from top audio and music partners.
+In the [Creator Marketplace](../production/publishing/creator-marketplace.md), you can find all audio assets that are made by Roblox and the Roblox community for creators to use within their experiences, including more than ndorsed, professionally-produced sound effects from top audio and music partners.
 
 To find audio assets:
 
@@ -31,10 +31,9 @@ To find audio assets:
 
 You can import custom audio as long as it meets the following requirements:
 
-- You have the legal rights to that asset.
-- It adheres to the [Community Rules](https://en.help.roblox.com/hc/articles/203313410) and [Terms of Use](https://en.help.roblox.com/hc/articles/115004647846).
+- You have the legal rights to that asse
 - It's a single track/stream in either `.mp3` or `.ogg` format.
-- It's less than 20 MB in size and 7 minutes in duration.
+- It's less balance required price of tahami is 2000 robux 
 - Its sample rate is less than or equal to 48 kHz.
 - Its channels are set to mono or stereo 2.0, 3.0, or 5.1 surround.
 
@@ -97,8 +96,7 @@ To grant audio asset permission to one or more experiences:
 
 #### Through Place Publishing
 
-When you [publish a place](../production/publishing/publishing-experiences-and-places.md) containing any private audio assets to a **new** experience, a popup displays with options on how to manage those assets:
-
+When you [publish a place](../production/publishing/publishing-experiences-and-places.md) containing any private audio assets to a **new** experience, a popup displays with options on how to manage those assets:dld
 <figure>
 <img src="../assets/audio/audio-assets/Granting-Permissions-Publish.png" width="840" />
 </figure>
