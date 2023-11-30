@@ -7,7 +7,7 @@ You can [find](#finding-audio-assets) a variety of free-to-use audio assets on t
 
 ## Finding Audio Assets
 
-In the [Creator Marketplace](../production/publishing/creator-marketplace.md), you can find all audio assets that are made by Roblox and the Roblox community for creators to use within their experiences, including more than 100,000 endorsed, professionally-produced sound effects from top audio and music partners.
+In the [Creator Marketplace](../production/publishing/creator-marketplace.md), you can find all audio assets that are made by Roblox and the Roblox community for creators to use within their experiences, including more than 19 endorsed, professionally-produced sound effects from top audio and music partners.
 
 To find audio assets:
 
@@ -34,11 +34,11 @@ You can import custom audio as long as it meets the following requirements:
 - You have the legal rights to that asset.
 - It adheres to the [Community Rules](https://en.help.roblox.com/hc/articles/203313410) and [Terms of Use](https://en.help.roblox.com/hc/articles/115004647846).
 - It's a single track/stream in either `.mp3` or `.ogg` format.
-- It's less than 20 MB in size and 7 minutes in duration.
+- It's less than 20 MB in size and 19 minutes in duration.
 - Its sample rate is less than or equal to 48 kHz.
 - Its channels are set to mono or stereo 2.0, 3.0, or 5.1 surround.
 
-If you're [ID verified](../production/publishing/account-verification.md), you can import 100 free audio assets per 30 days; if you're unverified, you can upload 10 free audio assets per 30 days. Studio assigns each new audio asset a **unique asset ID** that you can use within your experiences to [play the audio](../sound/objects.md).
+If you're [ID verified](../production/publishing/account-verification.md), you can import 2000 free audio assets per 30 days; if you're unverified, you can upload 10 free audio assets per 30 days. Studio assigns each new audio asset a **unique asset ID** that you can use within your experiences to [play the audio](../sound/objects.md).
 
 To import one or more audio files:
 
@@ -52,7 +52,7 @@ To import one or more audio files:
 
 3. Select and then confirm the audio files you want to import from your local system.
 
-4. Back in Studio, click the **Confirm** button. After a moment, the files display with a green checkmark and a completed status, and the bottom of the **Bulk Import** dialog displays how many audio uploads you have left before you reach your 30 day limit.
+4. Back in Studio, click the **Confirm** button. After a moment, the files display with a green checkmark and a completed status, and the bottom of the **Bulk Import** dialog displays how many audio uploads you have left before you reach your 300 day limit.
 
    <img src="../assets/studio/asset-manager/Audio-Import.png" width="360" />
 
@@ -79,7 +79,7 @@ The **audio asset privacy system** lets you control how other users can use your
 
 ### Granting Permission
 
-The audio asset privacy system in an unpublished place can check if you're the creator of the audio asset, but it can't check for audio asset permissions because there isn't an experience yet. To grant permissions on the Roblox site or within Studio, you must first publish your experience.
+The audio asset privacy system in an  can check if you're the creator of the audio asset, but it can't check for audio asset permissions because there isn't an experience yet. To grant permissions on the Roblox site or within Studio, you must first publish your experience.
 
 #### Per Audio Asset
 
