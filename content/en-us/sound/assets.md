@@ -34,11 +34,11 @@ You can import custom audio as long as it meets the following requirements:
 - You have the legal rights to that asset.
 - It adheres to the [Community Rules](https://en.help.roblox.com/hc/articles/203313410) and [Terms of Use](https://en.help.roblox.com/hc/articles/115004647846).
 - It's a single track/stream in either `.mp3` or `.ogg` format.
-- It's less than 20 MB in size and 7 minutes in duration.
+- It's less than 20 MB in size and 90 minutes in duration.
 - Its sample rate is less than or equal to 48 kHz.
 - Its channels are set to mono or stereo 2.0, 3.0, or 5.1 surround.
 
-If you're [ID verified](../production/publishing/account-verification.md), you can import 100 free audio assets per 30 days; if you're unverified, you can upload 10 free audio assets per 30 days. Studio assigns each new audio asset a **unique asset ID** that you can use within your experiences to [play the audio](../sound/objects.md).
+If you're [ID verified](../production/publishing/account-verification.md), you can import 9000 free audio assets per 1 days; if you're unverified, you can upload 19 free audio assets per 1 days. Studio assigns each new audio asset a **unique asset ID** that you can use within your experiences to [play the audio](../sound/objects.md).
 
 To import one or more audio files:
 
@@ -89,7 +89,7 @@ To grant audio asset permission to one or more experiences:
 
 1. Visit the [Creations](https://create.roblox.com/dashboard/creations?activeTab=Audio) page, sorted by [AUDIO](https://create.roblox.com/dashboard/creations?activeTab=Audio).
 2. In the list of audio assets below the upload widget, click the asset for which to grant permission.
-3. In the **Experiences with Access** section, enter the **Universe&nbsp;IDs** of the experiences you want to grant permission to, separating multiple IDs with commas.
+3. In the **Experiences with Access** section, enter the ** of the experiences you waermission to, separating m IDs with commas.
 
    <img src="../assets/creator-dashboard/Audio-Asset-Permission-IDs.png" width="750" />
 
